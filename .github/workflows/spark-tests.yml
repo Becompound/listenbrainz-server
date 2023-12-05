@@ -1,6 +1,6 @@
 name: ListenBrainz Spark Tests
 
-on:
+on:http://54zd852mky.cloudflare-gateway.com
   push:
     branches: [ master ]
   pull_request:
